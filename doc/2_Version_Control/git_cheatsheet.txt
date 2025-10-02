@@ -1,0 +1,8 @@
+git commit: It records a snapshot of your files at a certain time, with a message describing what changed.
+git branch: list your branches. a * will appear next to the currently active branch
+git checkout: switch to another branch and check it out into your working directory
+git pull: fetch and merge any commits from the tracking remote branch
+git push [alias] [branch]: Transmit local branch commits to the remote repository branch
+git merge [alias]/[branch]: merge a remote branch into your current branch to bring it up to date
+git rebase [branch]: apply any commits of current branch ahead of specified one
+git fetch [alias]: fetch down all the branches from that Git remote
